@@ -3,11 +3,23 @@
 
 # Spring 2025
 
-- First admissions round timeline https://www.su.se/english/education/how-to-apply/important-dates?open-collapse-boxes=ccbd-springsemester2025
+date: https://www.su.se/english/education/how-to-apply/important-dates?open-collapse-boxes=ccbd-springsemester2025
+- First admissions round timeline 
   - 3 June 2024	Online service opens on universityadmissions.se
   - 15 August	Admission application deadline
   - 2 September 	Deadline for receipt of supporting documents and deadline for receipt of application fee/document you're not required to pay
   - 3 October	Notification of Selection Results
+  - 20 January 2025	Spring semester starts
+ 
+- Second admissions round timeline  
+  - 16 September 2024 	Online service opens on universityadmissions.se 
+  - 15 October	Admission application deadline at midnight CET 
+  - 1 November	Deadline for receipt of application fee/document you're not required to pay
+  - 2 December	Deadline for receipt of supporting documents
+  - 10 December	First notification of selection results 
+  - 13 December	Some courses and programmes open for late application
+  - 16 December	Last date to reply to your offer
+  - 19 December	Check second selection results  - no reply required 
   - 20 January 2025	Spring semester starts
 
 ##   University contact information
