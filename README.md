@@ -42,6 +42,9 @@ https://www.su.se/english/about-the-university/collaboration-and-societal-develo
 - https://www.universityadmissions.se/intl/start
 - https://www.su.se/english/search-courses-and-programmes?eventopenforinternationalstudents=true&notforcedreason=0&q=&xpanded=
 
+## financial statistics
+https://www.su.se/english/search-courses-and-programmes/st1701-1.540589?semester=HT24&eventcode=39002
+
 ## Business Analytics in KTH University, Stockholm
 
 The course develops modelling skills for management contexts, for example finance, logistics, workforce scheduling, marketing, IT infrastructure and energy.
