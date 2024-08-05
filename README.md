@@ -31,6 +31,11 @@ Find out how to get in touch with Sweden's universities.
 - Top Univerisity
   - Stockholm University: https://www.su.se/english/
 
+## More information about stockholm university
+
+Since 2017, the Stockholm Trio – Karolinska Institutet, KTH Royal Institute of Technology and Stockholm University – has a strategic partnership with the University of Tokyo.
+https://www.su.se/english/about-the-university/collaboration-and-societal-development/an-international-university?open-collapse-boxes=ccbd-strategicinternationalpartnerships,ccbd-otherinternationalcollaborations
+
 ## Links
 
 - https://www.uhr.se/en/start/about-the-council/  ( Swedish Counsil for Higher education )
