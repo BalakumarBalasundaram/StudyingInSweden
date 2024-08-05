@@ -2,6 +2,7 @@
 
 ## Links
 
+https://www.universityadmissions.se/intl/start
 https://www.su.se/english/search-courses-and-programmes?eventopenforinternationalstudents=true&notforcedreason=0&q=&xpanded=
 
 ## Business Analytics in KTH University, Stockholm
