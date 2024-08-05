@@ -3,12 +3,12 @@
 
 # Spring 2025
 
-First admissions round timeline 
-3 June 2024	Online service opens on universityadmissions.se
-15 August	Admission application deadline
-2 September 	Deadline for receipt of supporting documents and deadline for receipt of application fee/document you're not required to pay
-3 October	Notification of Selection Results
-20 January 2025	Spring semester starts
+- First admissions round timeline 
+  - 3 June 2024	Online service opens on universityadmissions.se
+  - 15 August	Admission application deadline
+  - 2 September 	Deadline for receipt of supporting documents and deadline for receipt of application fee/document you're not required to pay
+  - 3 October	Notification of Selection Results
+  - 20 January 2025	Spring semester starts
 
 ##   University contact information
 
